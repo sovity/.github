@@ -1,0 +1,13 @@
+.idea
+*.iml
+.run
+.vs
+.vscode
+
+.DS_Store
+
+**/out
+*.hprof
+
+# Log files
+*.log
